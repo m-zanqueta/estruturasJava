@@ -5,7 +5,7 @@ public class ex2 {
         var scanner = new Scanner(System.in);
         
         System.out.println("Cálculo de IMC");
-        System.out.println("---");
+        System.out.println("--- \n");
 
         System.out.println("Digite sua altura:");
         var altura = scanner.nextFloat();

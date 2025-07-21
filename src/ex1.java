@@ -5,7 +5,7 @@ public class ex1 {
         var scanner = new Scanner(System.in);
         
         System.out.println("Tabuada automática!");
-        System.out.println("---");
+        System.out.println("--- \n");
 
         System.out.println("Digite um número:");
         var numero = scanner.nextInt();
