@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/507dfbba-61a7-4375-bb12-2daf8ae545cf" width="300px;" alt="logo bootcamp santander"/><br>
 
 
-> Desenvolvidos pelo professor <a href="https://www.linkedin.com/in/josé-luiz-abreu-cardoso-junior-18483872">José Luiz Abreu</a>, durante o bootcamp disponibilizado pela <a href="">Santander Open Academy</a> com parceria da plataforma da <a href="https://www.linkedin.com/school/dio-makethechange/posts/?feedView=all">DIO</a>, os exercícios elaborados servem como um treino sobre as diferentes estruturas em Java (if, else, for, while).
+> Desenvolvidos pelo professor <a href="https://www.linkedin.com/in/josé-luiz-abreu-cardoso-junior-18483872">José Luiz Abreu</a>, durante o bootcamp disponibilizado pela <a href="https://www.linkedin.com/company/santander-open-academy">Santander Open Academy</a> com parceria da plataforma da <a href="https://www.linkedin.com/school/dio-makethechange/posts/?feedView=all">DIO</a>, os exercícios elaborados servem como um treino sobre as diferentes estruturas em Java (if, else, for, while).
 > Aproveite!
 
 ## 💻 Pré-requisitos
